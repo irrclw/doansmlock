@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/doansmlock/static/css/main.d9c29e15.css",
-    "main.js": "/doansmlock/static/js/main.5989a064.js",
+    "main.js": "/doansmlock/static/js/main.8a5643f6.js",
     "static/media/HUST.png": "/doansmlock/static/media/HUST.af51bc367d4ee9b51ef8.png",
     "index.html": "/doansmlock/index.html",
     "main.d9c29e15.css.map": "/doansmlock/static/css/main.d9c29e15.css.map",
-    "main.5989a064.js.map": "/doansmlock/static/js/main.5989a064.js.map"
+    "main.8a5643f6.js.map": "/doansmlock/static/js/main.8a5643f6.js.map"
   },
   "entrypoints": [
     "static/css/main.d9c29e15.css",
-    "static/js/main.5989a064.js"
+    "static/js/main.8a5643f6.js"
   ]
 }
